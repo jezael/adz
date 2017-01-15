@@ -1,3 +1,6 @@
+
+<meta content='https://youtu.be/MBboCuMo2xg' property='og:url'/>
+
 <?php 
 $f = new stdClass();
 $f->traffic_type = 1;
